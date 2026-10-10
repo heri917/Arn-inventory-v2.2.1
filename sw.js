@@ -1,0 +1,5 @@
+const CACHE='arn-inventory-free-compat-search-fix-20261011';
+const CORE=['./','./index.html','./app.css','./app.js','./manifest.webmanifest','./master-data.json','./supabase-config.js','./arn-loading-logo.png','./arn-solutions.png','./arn-inventory-header.png','./arn-inventory-icon.png','./arn-inventory-icon-192.png','./arn-inventory-icon-512.png','./apple-touch-icon.png'];
+self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()))});
+self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('arn-inventory-free-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
+self.addEventListener('fetch',e=>{if(e.request.method!=='GET')return;const u=new URL(e.request.url);if(u.origin!==location.origin)return;e.respondWith((async()=>{try{const r=await fetch(e.request);const c=await caches.open(CACHE);c.put(e.request,r.clone());return r}catch{const c=await caches.open(CACHE);const cached=await c.match(e.request);return cached||(await c.match('./index.html'))}})())});

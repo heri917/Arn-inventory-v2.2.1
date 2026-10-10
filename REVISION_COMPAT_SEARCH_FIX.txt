@@ -1,0 +1,25 @@
+ARN INVENTORY - COMPATIBILITY AND SEARCH FIX
+Date: 2026-10-11
+
+Changes applied to app.js:
+1. Main inventory search now also indexes model compatibility from the bundled battery master when matching a part's code/name, so searching a phone model can locate the related battery part.
+2. Compatibility modal reads the bundled database's actual arn_part_compatibilities schema (model/source), rather than the mismatched phone_model view/function.
+3. Saving selected or manually entered compatible phone models now upserts arn_part_compatibilities using part_id, model, normalized_model, source.
+4. A remote save failure is reported as a compatibility save failure and prevents the UI from pretending that the model was saved.
+5. Remote pull and compatibility list loading now use the model column from arn_part_compatibilities.
+6. Part edit save parses formatted rupiah values rather than passing strings such as Rp1.000 into Number().
+7. Service-worker cache version updated so browsers refresh the revised files.
+
+Validation performed:
+- JavaScript syntax check with node --check passed.
+- Source archive and stable baseline were inspected.
+- Live Supabase operations and actual iOS/browser UI interactions cannot be executed from this offline packaging environment; test the listed workflows before production use.
+
+Manual test checklist:
+- Search main inventory by phone model, part name, and part code.
+- Verify results show correct compatible part and current stock.
+- Select a model from compatibility master and save.
+- Type a new model manually and save.
+- Close/reopen compatibility editor and verify both models persist.
+- Verify existing models can be found by model name and by battery/part code.
+- Edit a part price and verify rupiah formatting and numeric value in history.

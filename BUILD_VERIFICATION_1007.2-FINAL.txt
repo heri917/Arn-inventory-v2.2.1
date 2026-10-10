@@ -1,0 +1,51 @@
+ARN Inventory V1007.2 FINAL BUILD VERIFICATION
+
+BASELINE
+- Source: ARN-Inventory-REVISI-1007.2-FIX(1).zip
+- V1007.2 treated as the working baseline.
+- Existing V1007.2 features outside the two locked revisions were preserved.
+
+LOCKED REVISION SCOPE
+1. Kode Lisensi
+   - RPC response is handled as string, object, nested data, or Supabase table-array response.
+   - Generated code is persisted and drawn immediately.
+   - If the server returns no code payload, the admin list is reloaded before showing an error, preventing silent success with a blank code.
+   - Existing license architecture/RPC calls are retained.
+2. Kompatibilitas
+   - Part Baru and Edit Part now have Master/Manual tabs.
+   - Master models can be searched and selected in multiple selections.
+   - Manual model entry remains available.
+   - New manual models become part of the growing compatibility pool through the existing part compatibility data.
+   - Normalized duplicate prevention is applied.
+   - Existing Part Detail compatibility manager also supports the same Master/Manual flow.
+   - Works across part categories.
+
+PRESERVATION
+- No Supabase schema/config files were modified.
+- No stock/history/summary/auth/navigation/service-worker behavior was intentionally changed.
+- Compared with the supplied ZIP, existing files changed only: app.js and app.css.
+- One verification report was added; no existing non-target files were modified.
+
+STATIC TESTS
+- Node JavaScript syntax check: PASS
+- Original supplied ZIP integrity: PASS
+- Final ZIP integrity: PASS
+- Master data counts verified: LCD 63 groups / 488 models, Battery 209 codes, Tempered Glass 18 groups
+- Master compatibility pool test: PASS
+  - Y15s found
+  - Y12s found
+  - normalized duplicates: none
+  - empty model entries: none
+- License response-shape test: PASS
+  - Supabase table-array response
+  - object response
+  - nested data response
+  - string response
+  - empty response handled
+
+LIVE E2E LIMIT
+- Real authenticated Supabase generation/activation and device Safari testing cannot be truthfully marked PASS from this build environment.
+- The supplied audit states live production E2E was not claimed.
+
+FINAL RULE
+Only the two locked feature areas above are revised. Other working V1007.2 behavior is left intact.

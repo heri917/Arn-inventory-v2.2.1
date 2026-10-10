@@ -1,0 +1,31 @@
+ARN Inventory V1007.2 FINAL-3
+
+SCOPE LOCK:
+- Only the two approved areas are changed: License Code and Compatibility.
+- This build's latest patch is ONLY within Compatibility UI/master filtering/label clarity plus service-worker cache version required to deliver the compatibility patch.
+- No other feature was intentionally refactored or rebuilt.
+
+COMPATIBILITY PATCH:
+- Master picker is filtered by the selected Part category.
+- LCD Part -> LCD master models only.
+- Baterai Part -> Battery master models only.
+- Tempered Glass Part -> Tempered Glass master models only.
+- Other categories use master/manual compatibility belonging to that same category.
+- Each master result now displays the compatibility category and master/group context.
+- Manual models remain supported and become part of the growing compatibility pool without normalized duplicates.
+- Existing selected models remain selected and are not duplicated.
+
+STATIC TESTS:
+- node --check app.js: PASS
+- ZIP integrity: PASS after packaging
+- Master-data JSON: PASS
+- 63 LCD groups / 488 LCD models / 209 battery codes / 18 TG groups retained
+- License-generation code unchanged from prior FINAL-2 build: PASS (scope comparison)
+- Only app.js, app.css, sw.js and this verification file differ from FINAL-2
+
+CATEGORY DATA TEST:
+- Tempered Glass master data contains Y22: PASS
+- LCD master data contains Y22: PASS
+- Category filtering prevents LCD Y22 from appearing in a Tempered Glass picker: PASS (source-logic verification)
+
+LIVE SUPABASE AUTHENTICATED E2E is not claimed by this build environment.

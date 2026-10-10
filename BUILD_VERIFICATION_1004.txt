@@ -1,0 +1,17 @@
+ARN Inventory Revisi 1004
+
+Static verification:
+- node --check app.js: PASS
+- master-data.json JSON validation: PASS
+- 63 LCD groups
+- 488 LCD models
+- 209 battery codes
+- 18 tempered-glass groups
+- 34 recorded inventory baseline rows
+- 16 opening stock movement rows dated 2026-09-14
+- Seed simulation: 324 unique part lines, 15 positive opening transactions, 121 total opening quantity
+- Critical baseline rows: TG-UNK-01=2, TG-UNK-02=3, BTN-003=0
+- Service worker cache: arn-inventory-1004-final
+- ZIP integrity: verified after packaging
+
+Live authenticated production E2E is not claimed by this build environment.

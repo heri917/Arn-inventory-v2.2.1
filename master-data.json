@@ -1,0 +1,3965 @@
+{
+  "lcd": [
+    {
+      "category": "LCD",
+      "brand": "Vivo",
+      "group": "01",
+      "name": "Y12 / Y15 / Y17 / Y11 / Y3",
+      "models": [
+        "Y12 / Y15 / Y17 / Y11 / Y3                                                                                                            9",
+        "Y91 / Y93 / Y95 / Y1S / Y90                                                                                                           10",
+        "Y20 / Y12S / Y33S                                                                                                                     59",
+        "Y30 / Y50 / Y51S / Y70S                                                                                                               7",
+        "Y27 / Y27S / Y36                                                                                                                      9",
+        "V15 / S1                                                                                                                              4",
+        "V20 / V20 SE / V21 4G / V23E                                                                                                          15",
+        "V21 5G / V25 / V25E / T1 Pro                                                                                                          5",
+        "Y12"
+      ],
+      "source": "ARN_STORE_Master_LCD_01_VIVO_LAYOUT_REVISI_4(1).txt",
+      "expected": 9
+    },
+    {
+      "category": "LCD",
+      "brand": "Vivo",
+      "group": "02",
+      "name": "Y91 / Y93 / Y95 / Y1S / Y90",
+      "models": [
+        "Y15",
+        "Y17",
+        "Y11",
+        "Y3",
+        "Y3S 2020",
+        "Y12i",
+        "U3X",
+        "U10",
+        "Y91",
+        "Y91C"
+      ],
+      "source": "ARN_STORE_Master_LCD_01_VIVO_LAYOUT_REVISI_4(1).txt",
+      "expected": 10
+    },
+    {
+      "category": "LCD",
+      "brand": "Vivo",
+      "group": "03",
+      "name": "Y20 / Y12S / Y33S",
+      "models": [
+        "Y91i",
+        "Y93",
+        "Y93A",
+        "Y93T",
+        "Y95",
+        "Y1S",
+        "Y90",
+        "U1",
+        "Y21",
+        "Y21s",
+        "Y21a",
+        "Y21e",
+        "Y21t",
+        "Y21g",
+        "Y02s",
+        "Y16",
+        "Y30 5G",
+        "Y15a",
+        "Y15c",
+        "Y32",
+        "Y33 5G",
+        "Y20",
+        "Y20a",
+        "Y12g",
+        "Y01",
+        "Y22",
+        "Y17s",
+        "Y22s",
+        "Y22 New",
+        "Y28 5G",
+        "Y33t",
+        "Y36i",
+        "Y36",
+        "Y12 New",
+        "T1x",
+        "Y33s",
+        "Y51 2020",
+        "Y31 2020",
+        "Y73",
+        "Y72s",
+        "Y53s",
+        "iQOO Z3",
+        "iQOO U3",
+        "iQOO U3x",
+        "Y31",
+        "T2x",
+        "Y72 5G",
+        "Y55s 5G",
+        "Y76 5G",
+        "Y76s 5G",
+        "Y75 5G",
+        "Y77 5G",
+        "Y56 5G",
+        "Y20t",
+        "Y20s",
+        "Y20i",
+        "Y20g",
+        "Y20sg",
+        "Y12s"
+      ],
+      "source": "ARN_STORE_Master_LCD_01_VIVO_LAYOUT_REVISI_4(1).txt",
+      "expected": 59
+    },
+    {
+      "category": "LCD",
+      "brand": "Vivo",
+      "group": "04",
+      "name": "Y30 / Y50 / Y51S / Y70S",
+      "models": [
+        "Y12a",
+        "Y20e",
+        "Y30g",
+        "Y31s 5G",
+        "Y11s",
+        "Y12d",
+        "Y15s"
+      ],
+      "source": "ARN_STORE_Master_LCD_01_VIVO_LAYOUT_REVISI_4(1).txt",
+      "expected": 7
+    },
+    {
+      "category": "LCD",
+      "brand": "Vivo",
+      "group": "05",
+      "name": "Y27 / Y27S / Y36",
+      "models": [
+        "iQOO U1",
+        "Y30 2021",
+        "Y30G",
+        "Y30i",
+        "Y50",
+        "Y50T",
+        "Y51S 5G",
+        "Y70S",
+        "Y27 4G"
+      ],
+      "source": "ARN_STORE_Master_LCD_01_VIVO_LAYOUT_REVISI_4(1).txt",
+      "expected": 9
+    },
+    {
+      "category": "LCD",
+      "brand": "Vivo",
+      "group": "06",
+      "name": "V15 / S1",
+      "models": [
+        "Y27 5G",
+        "Y27S",
+        "Y35+",
+        "Y36 4G"
+      ],
+      "source": "ARN_STORE_Master_LCD_01_VIVO_LAYOUT_REVISI_4(1).txt",
+      "expected": 4
+    },
+    {
+      "category": "LCD",
+      "brand": "Vivo",
+      "group": "07",
+      "name": "V20 / V20 SE / V21 4G / V23E",
+      "models": [
+        "Y36 5G",
+        "Y36 India",
+        "Y55T",
+        "iQOO Z7X 5G",
+        "V15",
+        "V15 Pro",
+        "S1",
+        "S1 Pro",
+        "V20",
+        "V20 SE",
+        "V20S",
+        "V21 4G",
+        "V21E",
+        "V23E",
+        "V23E 4G"
+      ],
+      "source": "ARN_STORE_Master_LCD_01_VIVO_LAYOUT_REVISI_4(1).txt",
+      "expected": 15
+    },
+    {
+      "category": "LCD",
+      "brand": "Vivo",
+      "group": "08",
+      "name": "V21 5G / V25 / V25E / T1 Pro",
+      "models": [
+        "Y73 4G",
+        "Y75 4G",
+        "T1 4G",
+        "X50E",
+        "X50 Lite"
+      ],
+      "source": "ARN_STORE_Master_LCD_01_VIVO_LAYOUT_REVISI_4(1).txt",
+      "expected": 5
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "01",
+      "name": "A02 / M02",
+      "models": [
+        "A02 / M02                                                                                                                                                         4",
+        "A03 / A03s / A02s / M02s / M04                                                                                                                                    5",
+        "A04 / A04e                                                                                                                                                        2",
+        "A04s / A13 5G                                                                                                                                                     5"
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 4
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "02",
+      "name": "A03 / A03s / A02s / M02s / M04",
+      "models": [
+        "A12 / M12 / F12                                                                                                                                                   5",
+        "A32 5G / M23 5G / M32 5G                                                                                                                                          5",
+        "A13 4G / M13 / F13                                                                                                                                                3",
+        "M30 / M30S / M21 / M31                                                                                                                                            4",
+        "A20 / A30 / A50 / A50S                                                                                                                                            4"
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 5
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "03",
+      "name": "A04 / A04e",
+      "models": [
+        "A10 / M10                                                                                                                                                         2",
+        "J4+ / J6+                                                                                                                                                         2"
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 2
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "04",
+      "name": "A04s / A13 5G",
+      "models": [
+        "J6 / A6 2018                                                                                                                                                      2",
+        "J4                                                                                                                                                                1",
+        "J7 Prime                                                                                                                                                          1",
+        "J7 Pro                                                                                                                                                            1",
+        "M20                                                                                                                                                               1"
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 5
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "05",
+      "name": "A12 / M12 / F12",
+      "models": [
+        "A6+ 2018                                                                                                                                                          1",
+        "A7 2018                                                                                                                                                           1",
+        "A02                                                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "A022                                                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "M02                                                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 5
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "06",
+      "name": "A32 5G / M23 5G / M32 5G",
+      "models": [
+        "M022                                                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "A03                                                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "A03s                                                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "A02s                                                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "M02s                                                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 5
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "07",
+      "name": "A13 4G / M13 / F13",
+      "models": [
+        "M04                                                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "A04                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "A045                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 3
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "08",
+      "name": "M30 / M30S / M21 / M31",
+      "models": [
+        "A04s                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "A047                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "A047F                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "A13 5G                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 4
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "09",
+      "name": "A20 / A30 / A50 / A50S",
+      "models": [
+        "A136                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "A12                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "A125                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "M12                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 4
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "10",
+      "name": "A10 / M10",
+      "models": [
+        "M127                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "F12                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 2
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "11",
+      "name": "J4+ / J6+",
+      "models": [
+        "A32 5G                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "A326                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 2
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "12",
+      "name": "J6 / A6 2018",
+      "models": [
+        "M23 5G                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "M326                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 2
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "13",
+      "name": "J4",
+      "models": [
+        "M32 5G                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 1
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "14",
+      "name": "J7 Prime",
+      "models": [
+        "A13 4G                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 1
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "15",
+      "name": "J7 Pro",
+      "models": [
+        "M13                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 1
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "16",
+      "name": "M20",
+      "models": [
+        "F13                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 1
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "17",
+      "name": "A6+ 2018",
+      "models": [
+        "M30                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 1
+    },
+    {
+      "category": "LCD",
+      "brand": "Samsung",
+      "group": "18",
+      "name": "A7 2018",
+      "models": [
+        "M30S                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_02_SAMSUNG_LAYOUT_REVISI(1).txt",
+      "expected": 1
+    },
+    {
+      "category": "LCD",
+      "brand": "OPPO/realme/OnePlus",
+      "group": "01",
+      "name": "A15 / A16 / C11 / C12 / C15",
+      "models": [
+        "A15 / A16 / C11 / C12 / C15                                                                                                                                      16",
+        "C20 / C21 / C25Y / Narzo 50i                                                                                                                                      6",
+        "C3 / C5 / C5i / C6i                                                                                                                                               9",
+        "A53 / A54 / A55 / A76 / A36                                                                                                                                      16",
+        "A17 / A18 / A38 / A77 / A78                                                                                                                                      13",
+        "F19 / A94 / A95 / A96                                                                                                                                             9",
+        "Reno 5 / 6 / 7 / 8 Lite                                                                                                                                           9",
+        "8i / 9i / 9 Pro / Narzo 50                                                                                                                                        7",
+        "X7 / 7 Pro / Q2 / V15 / 8                                                                                                                                         9",
+        "C55 / 11x / C67 / F23                                                                                                                                             7",
+        "C63 / C65 / A3 / A5 / K12x                                                                                                                                       15",
+        "15x / C85 / A6 family                                                                                                                                            12",
+        "OPPO A15                                                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A15S                                                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A16                                                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A16K                                                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_03_OPPO_REALME_ONEPLUS_LAYOUT_REVISI(1).txt",
+      "expected": 16
+    },
+    {
+      "category": "LCD",
+      "brand": "OPPO/realme/OnePlus",
+      "group": "02",
+      "name": "C20 / C21 / C25Y / Narzo 50i",
+      "models": [
+        "OPPO A16E                                                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A16S                                                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A54S                                                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C11                                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C12                                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C15                                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_03_OPPO_REALME_ONEPLUS_LAYOUT_REVISI(1).txt",
+      "expected": 6
+    },
+    {
+      "category": "LCD",
+      "brand": "OPPO/realme/OnePlus",
+      "group": "03",
+      "name": "C3 / C5 / C5i / C6i",
+      "models": [
+        "realme C15 Qualcomm                                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C25                                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C25s                                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme Narzo 20                                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme Narzo 30A                                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme Narzo 50A                                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C20                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C21                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C21Y                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_03_OPPO_REALME_ONEPLUS_LAYOUT_REVISI(1).txt",
+      "expected": 9
+    },
+    {
+      "category": "LCD",
+      "brand": "OPPO/realme/OnePlus",
+      "group": "04",
+      "name": "A53 / A54 / A55 / A76 / A36",
+      "models": [
+        "realme C25Y                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme Narzo 50i                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C11 2021                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C3                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C5                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C5i                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C6i                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A5 2020                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A9 2020                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A31 2020                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A11                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A11X                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A53                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A53s                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A53 2020                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A54                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_03_OPPO_REALME_ONEPLUS_LAYOUT_REVISI(1).txt",
+      "expected": 16
+    },
+    {
+      "category": "LCD",
+      "brand": "OPPO/realme/OnePlus",
+      "group": "05",
+      "name": "A17 / A18 / A38 / A77 / A78",
+      "models": [
+        "OPPO A54 4G                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A55 4G                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A55 5G                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A56 5G                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A57                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A57S                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A76                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A36                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A11s                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A33                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme 7i                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C17                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A17                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_03_OPPO_REALME_ONEPLUS_LAYOUT_REVISI(1).txt",
+      "expected": 13
+    },
+    {
+      "category": "LCD",
+      "brand": "OPPO/realme/OnePlus",
+      "group": "06",
+      "name": "F19 / A94 / A95 / A96",
+      "models": [
+        "OPPO A17K                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A18                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A38                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A77                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A77S                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A78 5G                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A58 4G                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A58 5G                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A59 5G                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_03_OPPO_REALME_ONEPLUS_LAYOUT_REVISI(1).txt",
+      "expected": 9
+    },
+    {
+      "category": "LCD",
+      "brand": "OPPO/realme/OnePlus",
+      "group": "07",
+      "name": "Reno 5 / 6 / 7 / 8 Lite",
+      "models": [
+        "OPPO K10 5G                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OnePlus Nord N300 5G                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OnePlus Nord N20 SE                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO F19                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO F19 Pro                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO F19s                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A94 4G                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A94 5G                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A95 4G                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_03_OPPO_REALME_ONEPLUS_LAYOUT_REVISI(1).txt",
+      "expected": 9
+    },
+    {
+      "category": "LCD",
+      "brand": "OPPO/realme/OnePlus",
+      "group": "08",
+      "name": "8i / 9i / 9 Pro / Narzo 50",
+      "models": [
+        "OPPO A95 5G                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A96                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A96 5G                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO Reno 5F                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO Reno 5 Lite                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO Reno 6 Lite                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO Reno 7 Lite                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_03_OPPO_REALME_ONEPLUS_LAYOUT_REVISI(1).txt",
+      "expected": 7
+    },
+    {
+      "category": "LCD",
+      "brand": "OPPO/realme/OnePlus",
+      "group": "09",
+      "name": "X7 / 7 Pro / Q2 / V15 / 8",
+      "models": [
+        "OPPO Reno 8 Lite                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO Reno 5Z                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO Reno 6Z                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO Reno 7Z                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO Reno 8Z                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme 8i                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme 9i                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme 9 Pro                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme 9 Pro 5G                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_03_OPPO_REALME_ONEPLUS_LAYOUT_REVISI(1).txt",
+      "expected": 9
+    },
+    {
+      "category": "LCD",
+      "brand": "OPPO/realme/OnePlus",
+      "group": "10",
+      "name": "C55 / 11x / C67 / F23",
+      "models": [
+        "realme Narzo 50                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO K10                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OnePlus Nord CE2 Lite                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme X7                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme X7 5G                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme 7 Pro                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme Q2 5G                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_03_OPPO_REALME_ONEPLUS_LAYOUT_REVISI(1).txt",
+      "expected": 7
+    },
+    {
+      "category": "LCD",
+      "brand": "OPPO/realme/OnePlus",
+      "group": "11",
+      "name": "C63 / C65 / A3 / A5 / K12x",
+      "models": [
+        "realme V15                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme 8                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme 8 Pro                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO Reno4 SE 5G                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO F21 Pro 5G                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C55                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme 11x 5G                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C67 5G                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme 11 5G                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme Narzo N55                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO F23 5G                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A98 5G                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C63 5G                                                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C65 4G                                                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme C65 5G                                                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_03_OPPO_REALME_ONEPLUS_LAYOUT_REVISI(1).txt",
+      "expected": 15
+    },
+    {
+      "category": "LCD",
+      "brand": "OPPO/realme/OnePlus",
+      "group": "12",
+      "name": "15x / C85 / A6 family",
+      "models": [
+        "realme Narzo N65 5G                                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A3x                                                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A3 Pro 5G                                                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A60                                                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A79 5G                                                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A80                                                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A40m                                                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A3 5G                                                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A3x 5G                                                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO A12x 5G                                                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "realme 14x 5G                                                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "OPPO K12x                                                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_03_OPPO_REALME_ONEPLUS_LAYOUT_REVISI(1).txt",
+      "expected": 12
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "01",
+      "name": "Redmi 4A / 4X / 5A",
+      "models": [
+        "Redmi 4A / 4X / 5A                                                                                                                                                3",
+        "Redmi 5 / 5 Plus                                                                                                                                                  2",
+        "Redmi 6 / 6A                                                                                                                                                      2"
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 3
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "02",
+      "name": "Redmi 5 / 5 Plus",
+      "models": [
+        "Redmi 8 / 8A                                                                                                                                                      3",
+        "Redmi 9 / 9A / 9C / 9i / 9T / POCO M2 / C3                                                                                                                        9"
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 2
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "03",
+      "name": "Redmi 6 / 6A",
+      "models": [
+        "POCO M3 / Redmi 9T / Note 9 4G                                                                                                                                    4",
+        "Redmi 10 5G / Note 11E / POCO M4 5G / POCO M5                                                                                                                     4"
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 2
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "04",
+      "name": "Redmi 8 / 8A",
+      "models": [
+        "Redmi Note 8 / Note 8 Pro                                                                                                                                         2",
+        "Redmi Note 9 / 9S / 9 Pro                                                                                                                                         3",
+        "Redmi Note 10 / 10S / POCO M5S                                                                                                                                    3"
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 3
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "05",
+      "name": "Redmi 9 / 9A / 9C / 9i / 9T / POCO M2 / C3",
+      "models": [
+        "Redmi Note 10 5G / POCO M3 Pro 5G                                                                                                                                 2",
+        "POCO X3 / X3 NFC / X3 Pro / Note 9 Pro 5G / Mi 10T Lite                                                                                                           5",
+        "Redmi 12 / 13 / Note 12R / POCO M6 Pro 5G                                                                                                                         4",
+        "Redmi 10 / 10A / 10C / 12C / 13C / 14C                                                                                                                            6",
+        "POCO M5                                                                                                                                                           1",
+        "Redmi 4A                                                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi 4X                                                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi 5A                                                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi 5                                                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 9
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "06",
+      "name": "POCO M3 / Redmi 9T / Note 9 4G",
+      "models": [
+        "Redmi 5 Plus                                                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi 6                                                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi 6A                                                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi 8                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 4
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "07",
+      "name": "Redmi 10 5G / Note 11E / POCO M4 5G / POCO M5",
+      "models": [
+        "Redmi 8A                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi 8A Pro                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi 9                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi 9A                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 4
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "08",
+      "name": "Redmi Note 8 / Note 8 Pro",
+      "models": [
+        "Redmi 9C                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi 9i                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 2
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "09",
+      "name": "Redmi Note 9 / 9S / 9 Pro",
+      "models": [
+        "Redmi 9T                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "POCO M2                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi 10A                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 3
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "10",
+      "name": "Redmi Note 10 / 10S / POCO M5S",
+      "models": [
+        "POCO C3                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "POCO C31                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "POCO M3                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 3
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "11",
+      "name": "Redmi Note 10 5G / POCO M3 Pro 5G",
+      "models": [
+        "Redmi 9T                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi Note 9 4G                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 2
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "12",
+      "name": "POCO X3 / X3 NFC / X3 Pro / Note 9 Pro 5G / Mi 10T Lite",
+      "models": [
+        "Redmi 9 Power                                      Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi 10 5G                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi Note 11E                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "POCO M4 5G                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "POCO M5                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 5
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "13",
+      "name": "Redmi 12 / 13 / Note 12R / POCO M6 Pro 5G",
+      "models": [
+        "Redmi Note 8                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi Note 8 Pro                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi Note 9                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi Note 9S                                      Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 4
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "14",
+      "name": "Redmi 10 / 10A / 10C / 12C / 13C / 14C",
+      "models": [
+        "Redmi Note 9 Pro                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi Note 10                                      Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi Note 10S                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "POCO M5S                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Redmi Note 10 5G                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "POCO M3 Pro 5G                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 6
+    },
+    {
+      "category": "LCD",
+      "brand": "Xiaomi/Redmi/POCO",
+      "group": "15",
+      "name": "POCO M5",
+      "models": [
+        "POCO X3                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_04_XIAOMI_REDMI_POCO_LAYOUT_REVISI(1).txt",
+      "expected": 1
+    },
+    {
+      "category": "LCD",
+      "brand": "Infinix/TECNO/itel",
+      "group": "01",
+      "name": "Smart 7 / Hot 30i / Spark Go / Pop 7 family",
+      "models": [
+        "Smart 7 / Hot 30i / Spark Go / Pop 7 family                                                                                                                      35",
+        "Hot 50i / Smart 9 / Smart 10 / Spark 40 family                                                                                                                   27",
+        "Infinix Note 30 / Hot 11S / Hot 30 / Hot 40 family                                                                                                               15",
+        "KL4 / KL5                                                                                                                                                         8",
+        "KL8 family                                                                                                                                                       17",
+        "Vision 1 / Smart 5 / Hot 10 Lite                                                                                                                                 10",
+        "A49 / A58 / A58 Pro / S17 family                                                                                                                                  6",
+        "A70 / Smart 7 / Hot 30i / Pop 7                                                                                                                                   7",
+        "Smart 10 / Hot 60i / Spark 40                                                                                                                                     8",
+        "Note 50X / Spark 30C / Spark 30 family                                                                                                                            7",
+        "Infinix Smart 7 (X5515)                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Smart 7 HD (X6516)                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Smart 7 Plus (X6516)                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix HOT30 (X669)                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix HOT30i (X690)                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix HOT30i (X690C)                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix HOT30i (X690i)                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Spark Go 2023 (BF)                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno POP7 Pro (BF7H)                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno POP8 (BG6)                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Spark 10C (KI8B)                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Spark 10C (KI8)                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Spark 10 (CK1B)                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Spark 5G (B1 KEL)                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel P40 (P666)                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel P40 (F62LF)                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A30 (P661N)                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel Colour P53G (F661N)                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel Colour Y96A 4G (B612)                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A55 (A663L)                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A60 (A662L)                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A70 (A665L)                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel P55 (A666L)                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A05 (A661L)                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel S23 (S661L)                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_05_INFINIX_TECNO_ITEL_LAYOUT_REVISI(1).txt",
+      "expected": 35
+    },
+    {
+      "category": "LCD",
+      "brand": "Infinix/TECNO/itel",
+      "group": "02",
+      "name": "Hot 50i / Smart 9 / Smart 10 / Spark 40 family",
+      "models": [
+        "itel S23 4G (S666LN)                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel S23+ (S681LN)                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel S24 (S681LN)                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel S25 (S686LN)                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A50 (A667LP)                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A50C (A669LN)                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A80 (A671L)                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A05s (A663LM)                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel P38 (P683L)                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel Vision 1 (L6005)                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix HOT 60i                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel P65                                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix SMART 9                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix HOT 50i                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO POP 9                                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK Go 2                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix HOT 50 5G                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix SMART 9 HD                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK 40                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix HOT 60 5G                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix SMART 10                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix SMART 10 Plus                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel Power 70                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO POP 9 5G                                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix HOT 5Gi                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK Go 1                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK 30C                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_05_INFINIX_TECNO_ITEL_LAYOUT_REVISI(1).txt",
+      "expected": 27
+    },
+    {
+      "category": "LCD",
+      "brand": "Infinix/TECNO/itel",
+      "group": "03",
+      "name": "Infinix Note 30 / Hot 11S / Hot 30 / Hot 40 family",
+      "models": [
+        "TECNO SPARK GO 1S                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A80                                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK 30 5G                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix NOTE 50X 5G                                      Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK 30C 5G                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO POVA 6 Neo 5G                                      Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "ZTE Blade V70 Vita / V70 Design                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "ZTE Blade V70                                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "ZTE AXON 70 Lite                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "ZTE nubia music2                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Note 30 5G (X6711)                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Hot 11S (X6812)                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Hot 30 (X6831)                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Hot 30 5G (X6832)                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Note 30 4G (X6833B)                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_05_INFINIX_TECNO_ITEL_LAYOUT_REVISI(1).txt",
+      "expected": 15
+    },
+    {
+      "category": "LCD",
+      "brand": "Infinix/TECNO/itel",
+      "group": "04",
+      "name": "KL4 / KL5",
+      "models": [
+        "Infinix Hot 40 (X6836)                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Hot 40 Pro 5G (X6837)                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Note 40X 5G (X6838)                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Spark 10 Pro (KI7)                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Pova 6 Neo (LI6)                                   Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Pova 5 (LH7N)                                      Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Pova 5 Pro (LH8N)                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Spark 20 Pro (KJ6)                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_05_INFINIX_TECNO_ITEL_LAYOUT_REVISI(1).txt",
+      "expected": 8
+    },
+    {
+      "category": "LCD",
+      "brand": "Infinix/TECNO/itel",
+      "group": "05",
+      "name": "KL8 family",
+      "models": [
+        "Tecno Spark 20 Pro 5G (KJ8)                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Lava Blaze Pro 5G                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO POP 9 / KL4                                      Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO POP 9 / KL4H                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK GO 1S / KL4H                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK GO 1 / KL4                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK GO 1 / KL4S                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK 30C / KL5                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK 30C / KL5S                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK 30C (NFC) / KL5N                           Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO POVA 6 NEO 5G / KL8                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK 30 5G / KL8                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK 30C 5G / KL8H                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK 30 5G / KL8S                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO POP 9 5G / KL8H                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A80 / A671LC                                      Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Hot 50 5G / X6720                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_05_INFINIX_TECNO_ITEL_LAYOUT_REVISI(1).txt",
+      "expected": 17
+    },
+    {
+      "category": "LCD",
+      "brand": "Infinix/TECNO/itel",
+      "group": "06",
+      "name": "Vision 1 / Smart 5 / Hot 10 Lite",
+      "models": [
+        "Infinix Hot 50 5G / X6720B                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Hot 50i / X6531                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Hot 50i / X6531B                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix SMART 9 / X6532                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix SMART 9 HD / X6532C                            Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel POWER 70 / P673L                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "ZTE Blade V70 Vita / V70 Design                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "ZTE Blade V70                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "ZTE AXON 70 Lite                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "ZTE nubia music2                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_05_INFINIX_TECNO_ITEL_LAYOUT_REVISI(1).txt",
+      "expected": 10
+    },
+    {
+      "category": "LCD",
+      "brand": "Infinix/TECNO/itel",
+      "group": "07",
+      "name": "A49 / A58 / A58 Pro / S17 family",
+      "models": [
+        "itel Vision 1                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel Vision 1 Pro                                      Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel Vision 1 Plus                                     Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel P36                                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel S16                                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel P37                                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_05_INFINIX_TECNO_ITEL_LAYOUT_REVISI(1).txt",
+      "expected": 6
+    },
+    {
+      "category": "LCD",
+      "brand": "Infinix/TECNO/itel",
+      "group": "08",
+      "name": "A70 / Smart 7 / Hot 30i / Pop 7",
+      "models": [
+        "Infinix Smart 5                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Hot 10 Lite                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Smart 5 Pro                                    Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Spark 6 Go                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A49                                                                      Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A58                                                                      Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A58 Pro                                                                  Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_05_INFINIX_TECNO_ITEL_LAYOUT_REVISI(1).txt",
+      "expected": 7
+    },
+    {
+      "category": "LCD",
+      "brand": "Infinix/TECNO/itel",
+      "group": "09",
+      "name": "Smart 10 / Hot 60i / Spark 40",
+      "models": [
+        "itel S17                                                                      Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Smart 6 Plus                                                          Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Spark 8                                                                 Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A70 (A665L)                                                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Smart 7 (X6515)                                                       Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix Hot 30i (X669)                                                        Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Pop 7 (BF6)                                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Tecno Pop 7 (BF7)                                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_05_INFINIX_TECNO_ITEL_LAYOUT_REVISI(1).txt",
+      "expected": 8
+    },
+    {
+      "category": "LCD",
+      "brand": "Infinix/TECNO/itel",
+      "group": "10",
+      "name": "Note 50X / Spark 30C / Spark 30 family",
+      "models": [
+        "itel S23 (S665L)                                                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "itel A05s (A663L)                                                             Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix SMART 10                                                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix SMART 10 Plus                                                         Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "Infinix HOT 60i                                                               Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK 40                                                                Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket.",
+        "TECNO SPARK Go 2                                                              Cek FPC/panel bila terdapat varian; gunakan sebagai patokan stok aftermarket."
+      ],
+      "source": "ARN_STORE_Master_LCD_05_INFINIX_TECNO_ITEL_LAYOUT_REVISI(1).txt",
+      "expected": 7
+    }
+  ],
+  "battery": [
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-39LX",
+      "name": "BL-39LX",
+      "compatibility": "Infinix Smart 4/S5/S5 Lite",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-40FX",
+      "name": "BL-40FX",
+      "compatibility": "Infinix Zero 4 Plus/X602/X574",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-42AX",
+      "name": "BL-42AX",
+      "compatibility": "Infinix Note 4/X572",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-43AX",
+      "name": "BL-43AX",
+      "compatibility": "Infinix Zero 5/X603",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-44AX",
+      "name": "BL-44AX",
+      "compatibility": "Infinix Note 4 Pro/X571",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-44CX",
+      "name": "BL-44CX",
+      "compatibility": "Infinix Zero 8/X687",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-45BX",
+      "name": "BL-45BX",
+      "compatibility": "Infinix Note 3/Note 3 Pro/X601",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-48DX",
+      "name": "BL-48DX",
+      "compatibility": "Infinix Hot 11/X675",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49FX",
+      "name": "BL-49FX",
+      "compatibility": "Infinix Hot 8/Hot 9/Smart 5",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49GX",
+      "name": "BL-49GX",
+      "compatibility": "Infinix Note 7/Hot 11S/Note 11",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49HX",
+      "name": "BL-49HX",
+      "compatibility": "Infinix Hot 20 5G/X666B",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49JX",
+      "name": "BL-49JX",
+      "compatibility": "Infinix Note 10 Pro/Note 11 Pro/Zero 5G/Hot 30 NFC",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49KX",
+      "name": "BL-49KX",
+      "compatibility": "Infinix Note 11 NFC/Note 12/Note 12 2023/Note 12i",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49LX",
+      "name": "BL-49LX",
+      "compatibility": "Infinix Hot 12/Hot 12i/Hot 20S",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49NX",
+      "name": "BL-49NX",
+      "compatibility": "Infinix Smart 7/Smart 8/Hot 30i/Smart 9",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49PX",
+      "name": "BL-49PX",
+      "compatibility": "Infinix GT 10 Pro/Note 30 Pro/Zero 30 4G/5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49TX",
+      "name": "BL-49TX",
+      "compatibility": "Infinix Note 30 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49UX",
+      "name": "BL-49UX",
+      "compatibility": "Infinix Hot 50 Pro+",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49VX",
+      "name": "BL-49VX",
+      "compatibility": "Infinix Note 40 Pro 4G/5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-51BX",
+      "name": "BL-51BX",
+      "compatibility": "Infinix Note 8/Note 8i/Hot 10",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-58BX",
+      "name": "BL-58BX",
+      "compatibility": "Infinix Hot 9 Play/Hot 10 Play/Hot 10S/Hot 11 Play/Hot 12 Play/Hot 30 Play",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49CT",
+      "name": "BL-49CT",
+      "compatibility": "TECNO WX3 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49FT",
+      "name": "BL-49FT",
+      "compatibility": "TECNO Spark Go 2020/Spark 5/Camon 15",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49HT",
+      "name": "BL-49HT",
+      "compatibility": "TECNO Spark 6/Camon 16/Camon 16 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49JT",
+      "name": "BL-49JT",
+      "compatibility": "TECNO Camon 17 Pro/Camon 18P/Spark 8 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49MT",
+      "name": "BL-49MT",
+      "compatibility": "TECNO Camon 19 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49NT",
+      "name": "BL-49NT",
+      "compatibility": "TECNO Spark Go 2023/Spark Go 1",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49OT",
+      "name": "BL-49OT",
+      "compatibility": "TECNO Camon 20/Camon 20 Pro/Spark 20 Pro+",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49QT",
+      "name": "BL-49QT",
+      "compatibility": "TECNO Camon 20 Premier",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49ST",
+      "name": "BL-49ST",
+      "compatibility": "TECNO Spark 10/Spark 10C/Spark 10 Pro/Spark 20/Spark 20C",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49VT",
+      "name": "BL-49VT",
+      "compatibility": "TECNO Camon 30",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-58BT",
+      "name": "BL-58BT",
+      "compatibility": "TECNO Spark 6 Air/Pouvoir 4 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-58CT",
+      "name": "BL-58CT",
+      "compatibility": "TECNO Spark 7/Spark 7T",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49NI",
+      "name": "BL-49NI",
+      "compatibility": "itel A60",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-49UI",
+      "name": "BL-49UI",
+      "compatibility": "itel RS4",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Infinix/TECNO/itel",
+      "code": "BL-58CI",
+      "name": "BL-58CI",
+      "compatibility": "itel P40",
+      "source": "ARN_STORE_Master_Stock_Baterai_INFINIX_TECNO_ITEL_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP673",
+      "name": "BLP673",
+      "compatibility": "OPPO A3s, A5, A5s, A7/A7x, A11K, A12, A31 2020; Realme 2, C1",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP727",
+      "name": "BLP727",
+      "compatibility": "OPPO A5 2020, A9 2020, A11, A11X",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP729",
+      "name": "BLP729",
+      "compatibility": "Realme 5, 5i, 5s, C3/C3i, C11/C11 2021, C20, C21/C21Y, Narzo 10A, Narzo 20A, Narzo 50i",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP805",
+      "name": "BLP805",
+      "compatibility": "OPPO A53S, A16S, A32, A53, A54 4G/5G, A54S, A55, A74 5G, A93 5G; Realme 7i Global, 8 5G, C17, Narzo 30 5G, V3 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP835",
+      "name": "BLP835",
+      "compatibility": "OPPO A94 4G, Reno5 Lite, Reno5 F, F19 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP839",
+      "name": "BLP839",
+      "compatibility": "OPPO A94 5G, Reno5 Z, Reno6 Z",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP851",
+      "name": "BLP851",
+      "compatibility": "OPPO A74 4G, A95 4G, F19, F19s",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP877",
+      "name": "BLP877",
+      "compatibility": "Realme 8i, C30, C30s, C31, C33, C35",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP923",
+      "name": "BLP923",
+      "compatibility": "OPPO A57 2022/4G, A57s, A77 5G, A77s, A78 5G, A97 5G; Realme C51; OnePlus Nord N20 SE",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLPA07",
+      "name": "BLPA07",
+      "compatibility": "OPPO A78 4G",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLPA19",
+      "name": "BLPA19",
+      "compatibility": "OPPO A38, A58 4G, A59 5G, A79 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLPA21",
+      "name": "BLPA21",
+      "compatibility": "OPPO A18",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLPA77",
+      "name": "BLPA77",
+      "compatibility": "OPPO A3X, A3 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP613",
+      "name": "BLP613",
+      "compatibility": "OnePlus 3",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP633",
+      "name": "BLP633",
+      "compatibility": "OnePlus 3T",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP637",
+      "name": "BLP637",
+      "compatibility": "OnePlus 5, 5T",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP657",
+      "name": "BLP657",
+      "compatibility": "OnePlus 6",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP699",
+      "name": "BLP699",
+      "compatibility": "OnePlus 7 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP743",
+      "name": "BLP743",
+      "compatibility": "OnePlus 7T",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP745",
+      "name": "BLP745",
+      "compatibility": "OnePlus 7T Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP759",
+      "name": "BLP759",
+      "compatibility": "OnePlus 8 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP761",
+      "name": "BLP761",
+      "compatibility": "OnePlus 8",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP785",
+      "name": "BLP785",
+      "compatibility": "OnePlus Nord",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP813",
+      "name": "BLP813",
+      "compatibility": "OnePlus Nord N100",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP815",
+      "name": "BLP815",
+      "compatibility": "OnePlus Nord N10 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP829",
+      "name": "BLP829",
+      "compatibility": "OnePlus 9",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP845",
+      "name": "BLP845",
+      "compatibility": "OnePlus Nord CE",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP861",
+      "name": "BLP861",
+      "compatibility": "OnePlus Nord 2 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP899",
+      "name": "BLP899",
+      "compatibility": "OnePlus 10 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "OPPO/realme/OnePlus",
+      "code": "BLP903",
+      "name": "BLP903",
+      "compatibility": "OnePlus Nord CE 2 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_OPPO_REALME_ONEPLUS_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BG360CBE",
+      "name": "EB-BG360CBE",
+      "compatibility": "Galaxy J2 2015 / J200F, Galaxy Core Prime / G360",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BG530BBE",
+      "name": "EB-BG530BBE",
+      "compatibility": "Galaxy J3 2016, J5 2015, J2 Prime, Grand Prime (varian tertentu)",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BJ330ABE",
+      "name": "EB-BJ330ABE",
+      "compatibility": "Galaxy J3 2017 / J3 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BJ700BBC",
+      "name": "EB-BJ700BBC",
+      "compatibility": "Galaxy J7 2015, J7 Core, J4 2018 (cek varian)",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BG610ABE",
+      "name": "EB-BG610ABE",
+      "compatibility": "Galaxy J7 Prime, J4+, J6+",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BJ510CBE",
+      "name": "EB-BJ510CBE",
+      "compatibility": "Galaxy J5 2016",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BJ710CBC",
+      "name": "EB-BJ710CBC",
+      "compatibility": "Galaxy J7 2016",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BJ730ABE",
+      "name": "EB-BJ730ABE",
+      "compatibility": "Galaxy J7 Pro, A7 2017",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BJ800ABE",
+      "name": "EB-BJ800ABE",
+      "compatibility": "Galaxy J6 2018, J8 2018, A6 2018",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BA500ABE",
+      "name": "EB-BA500ABE",
+      "compatibility": "Galaxy A5 2015",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BA520ABE",
+      "name": "EB-BA520ABE",
+      "compatibility": "Galaxy A5 2017, A3 2017 (cek varian)",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BA530ABE",
+      "name": "EB-BA530ABE",
+      "compatibility": "Galaxy A8 2018",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BA705ABU",
+      "name": "EB-BA705ABU",
+      "compatibility": "Galaxy A70/A70s",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BA750ABN",
+      "name": "EB-BA750ABN",
+      "compatibility": "Galaxy M10, A10, A7 2018 (listing kompatibilitas berbeda; cek model)",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "SCUD-WT-N6",
+      "name": "SCUD-WT-N6",
+      "compatibility": "Galaxy A10s/A20s, M01s (cek konektor/varian)",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BA217ABY",
+      "name": "EB-BA217ABY",
+      "compatibility": "Galaxy A12, A21s, M12 (kode sama)",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BA315ABY",
+      "name": "EB-BA315ABY",
+      "compatibility": "Galaxy A31, A32 4G, A22 4G (kode sama pada listing sparepart)",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BA415ABY",
+      "name": "EB-BA415ABY",
+      "compatibility": "Galaxy A41",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BA515ABY",
+      "name": "EB-BA515ABY",
+      "compatibility": "Galaxy A51",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BA426ABY",
+      "name": "EB-BA426ABY",
+      "compatibility": "Galaxy A42 5G, A32 5G, A72 (kode sama pada listing sparepart)",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BG781ABY",
+      "name": "EB-BG781ABY",
+      "compatibility": "Galaxy S20 FE, S20 FE 5G, A52/A52 5G/A52s 5G (listing aftermarket; cek varian)",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BG980ABY",
+      "name": "EB-BG980ABY",
+      "compatibility": "Galaxy S20",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BG985ABY",
+      "name": "EB-BG985ABY",
+      "compatibility": "Galaxy S20+",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BG988ABY",
+      "name": "EB-BG988ABY",
+      "compatibility": "Galaxy S20 Ultra",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BG991ABY",
+      "name": "EB-BG991ABY",
+      "compatibility": "Galaxy S21",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BG996ABY",
+      "name": "EB-BG996ABY",
+      "compatibility": "Galaxy S21+",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BG998ABY",
+      "name": "EB-BG998ABY",
+      "compatibility": "Galaxy S21 Ultra",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BN770ABY",
+      "name": "EB-BN770ABY",
+      "compatibility": "Galaxy S10 Lite, Note 10 Lite",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BN920ABE",
+      "name": "EB-BN920ABE",
+      "compatibility": "Galaxy Note 5",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BN950ABE",
+      "name": "EB-BN950ABE",
+      "compatibility": "Galaxy Note 8",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BN972ABU",
+      "name": "EB-BN972ABU",
+      "compatibility": "Galaxy Note 10+",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BS901ABY",
+      "name": "EB-BS901ABY",
+      "compatibility": "Galaxy S22",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BS906ABY",
+      "name": "EB-BS906ABY",
+      "compatibility": "Galaxy S22+",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BS908ABY",
+      "name": "EB-BS908ABY",
+      "compatibility": "Galaxy S22 Ultra",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BS911ABY",
+      "name": "EB-BS911ABY",
+      "compatibility": "Galaxy S23",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BS916ABY",
+      "name": "EB-BS916ABY",
+      "compatibility": "Galaxy S23+",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "EB-BS918ABY",
+      "name": "EB-BS918ABY",
+      "compatibility": "Galaxy S23 Ultra",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "HQ-50S",
+      "name": "HQ-50S",
+      "compatibility": "Galaxy A02s/A03s (listing aftermarket; cek model)",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Samsung",
+      "code": "HQ-S71",
+      "name": "HQ-S71",
+      "compatibility": "Galaxy M11",
+      "source": "ARN_STORE_Master_Stock_Baterai_SAMSUNG_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-05",
+      "name": "B-05",
+      "compatibility": "Vivo Y20, Y20S, Y20A, Y20G, Y20i, Y12S, Y11S",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-08",
+      "name": "B-08",
+      "compatibility": "Vivo Y30, Y31, Y31S, Y50, Y51, Y51S, Y52S, Y73S, Y93S, Y76, Y72 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-B1",
+      "name": "B-B1",
+      "compatibility": "Vivo Y55/Y55A/Y55S/Y55L",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-B2",
+      "name": "B-B2",
+      "compatibility": "Vivo V5/V5S/V5 Lite, Y66/Y66L/Y67/Y67L/Y69",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-B3",
+      "name": "B-B3",
+      "compatibility": "Vivo X9/X9 Plus, V5 Plus",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-C1",
+      "name": "B-C1",
+      "compatibility": "Vivo Y53/Y53i",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-C9",
+      "name": "B-C9",
+      "compatibility": "Vivo V7+/Y79/Y79A",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-D1",
+      "name": "B-D1",
+      "compatibility": "Vivo X20/X20A",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-D5",
+      "name": "B-D5",
+      "compatibility": "Vivo V7/Y75/Y75A",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-D9",
+      "name": "B-D9",
+      "compatibility": "Vivo V9/V9 Youth/V9 Pro/Y85",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-E1",
+      "name": "B-E1",
+      "compatibility": "Vivo Y71/Y71i/Y71A/Y73",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-E5",
+      "name": "B-E5",
+      "compatibility": "Vivo Y81/Y81i/Y81S/Y83/Y83A",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-E8",
+      "name": "B-E8",
+      "compatibility": "Vivo V11/V11i/Y97",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-F0",
+      "name": "B-F0",
+      "compatibility": "Vivo V11 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-F3",
+      "name": "B-F3",
+      "compatibility": "Vivo Y91/Y91C/Y91i/Y93/Y93s/Y95",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-G1",
+      "name": "B-G1",
+      "compatibility": "Vivo V15 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-G2",
+      "name": "B-G2",
+      "compatibility": "Vivo V15",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-G7",
+      "name": "B-G7",
+      "compatibility": "Vivo Y12/Y15/Y17/Z1 Pro/U10",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-H0",
+      "name": "B-H0",
+      "compatibility": "Vivo S1/V17 Neo",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-H1",
+      "name": "B-H1",
+      "compatibility": "Vivo V17 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-H3",
+      "name": "B-H3",
+      "compatibility": "Vivo Z1x",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-H9",
+      "name": "B-H9",
+      "compatibility": "Vivo Y19",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-K3",
+      "name": "B-K3",
+      "compatibility": "Vivo S1 Pro/Y9s",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-K6",
+      "name": "B-K6",
+      "compatibility": "Vivo V17",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-M1",
+      "name": "B-M1",
+      "compatibility": "Vivo V17/V19",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-M3",
+      "name": "B-M3",
+      "compatibility": "Vivo Y30/Y50",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-N8",
+      "name": "B-N8",
+      "compatibility": "Vivo S7/V20/V20 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-O6",
+      "name": "B-O6",
+      "compatibility": "Vivo V20 SE",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-O8",
+      "name": "B-O8",
+      "compatibility": "Vivo Y52S",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-O9",
+      "name": "B-O9",
+      "compatibility": "Vivo X60/X60T",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-P1",
+      "name": "B-P1",
+      "compatibility": "Vivo X60 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-Q1",
+      "name": "B-Q1",
+      "compatibility": "iQOO Z3 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-Q6",
+      "name": "B-Q6",
+      "compatibility": "Vivo V21e/V21e 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-Q7",
+      "name": "B-Q7",
+      "compatibility": "Vivo Y53s",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-R3",
+      "name": "B-R3",
+      "compatibility": "Vivo T1x; iQOO Z5x",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-R5",
+      "name": "B-R5",
+      "compatibility": "Vivo V23e/V23e 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-R6",
+      "name": "B-R6",
+      "compatibility": "iQOO Neo 855",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-R7",
+      "name": "B-R7",
+      "compatibility": "Vivo X70",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-S1",
+      "name": "B-S1",
+      "compatibility": "Vivo Y21/Y21S",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-S2",
+      "name": "B-S2",
+      "compatibility": "Vivo Y33s",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-S7",
+      "name": "B-S7",
+      "compatibility": "Vivo Y15a/Y15s/Y16/Y01/Y02",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-S9",
+      "name": "B-S9",
+      "compatibility": "iQOO Neo 5S",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-T0",
+      "name": "B-T0",
+      "compatibility": "Vivo Y76 5G/Y76s",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-T2",
+      "name": "B-T2",
+      "compatibility": "Vivo V23 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-T5",
+      "name": "B-T5",
+      "compatibility": "Vivo Y55s 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-T6",
+      "name": "B-T6",
+      "compatibility": "Vivo T1 5G; iQOO T1 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-U6",
+      "name": "B-U6",
+      "compatibility": "iQOO Neo 6",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-W0",
+      "name": "B-W0",
+      "compatibility": "Vivo Y35 2022",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-W1",
+      "name": "B-W1",
+      "compatibility": "Vivo Y02/Y02S",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-W2",
+      "name": "B-W2",
+      "compatibility": "Vivo V25 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-W3",
+      "name": "B-W3",
+      "compatibility": "Vivo Y22/Y22S",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-X8",
+      "name": "B-X8",
+      "compatibility": "Vivo Y100",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-Y1",
+      "name": "B-Y1",
+      "compatibility": "Vivo Y53 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-Z5",
+      "name": "B-Z5",
+      "compatibility": "Vivo Y36/Y27 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "B-Z7",
+      "name": "B-Z7",
+      "compatibility": "Vivo V29 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "BA10",
+      "name": "BA10",
+      "compatibility": "Vivo Y17S",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "BA45",
+      "name": "BA45",
+      "compatibility": "Vivo Y28 4G/Y28 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Vivo/iQOO",
+      "code": "BA49",
+      "name": "BA49",
+      "compatibility": "Vivo V40",
+      "source": "ARN_STORE_Master_Stock_Baterai_VIVO_iQOO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN30",
+      "name": "BN30",
+      "compatibility": "Redmi 4A",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN31",
+      "name": "BN31",
+      "compatibility": "Mi A1, Redmi Y1/Y1 Lite/Y2, Note 5A",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN34",
+      "name": "BN34",
+      "compatibility": "Redmi 5A",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN35",
+      "name": "BN35",
+      "compatibility": "Redmi 5",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN36",
+      "name": "BN36",
+      "compatibility": "Mi A2/Mi 6X",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN37",
+      "name": "BN37",
+      "compatibility": "Redmi 6/6A",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN3A",
+      "name": "BN3A",
+      "compatibility": "Redmi Go",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN43",
+      "name": "BN43",
+      "compatibility": "Redmi Note 4",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN44",
+      "name": "BN44",
+      "compatibility": "Redmi Note 5/Note 5 Plus",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN45",
+      "name": "BN45",
+      "compatibility": "Redmi Note 5 Pro/Note 6 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN47",
+      "name": "BN47",
+      "compatibility": "Redmi 6 Pro/Mi A2 Lite",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN48",
+      "name": "BN48",
+      "compatibility": "Redmi Note 6 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN49",
+      "name": "BN49",
+      "compatibility": "Redmi 7A",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN4A",
+      "name": "BN4A",
+      "compatibility": "Redmi Note 7/7 Pro/7S",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN51",
+      "name": "BN51",
+      "compatibility": "Mi 8 / Mi 8A (varian perlu dicocokkan)",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN52",
+      "name": "BN52",
+      "compatibility": "Redmi Note 9 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN55",
+      "name": "BN55",
+      "compatibility": "Redmi Note 9S",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN56",
+      "name": "BN56",
+      "compatibility": "Redmi 9A/9C; POCO M2 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN57",
+      "name": "BN57",
+      "compatibility": "POCO X3/X3 NFC/X3 Pro (verifikasi varian)",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN59",
+      "name": "BN59",
+      "compatibility": "Redmi Note 10/10S",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5A",
+      "name": "BN5A",
+      "compatibility": "Redmi Note 10 5G/Redmi 10 5G/POCO M3 Pro 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5C",
+      "name": "BN5C",
+      "compatibility": "POCO M4 Pro 5G/Redmi Note 11T 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5D",
+      "name": "BN5D",
+      "compatibility": "Redmi Note 11/Note 11S/POCO M4 Pro 4G",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5E",
+      "name": "BN5E",
+      "compatibility": "Redmi Note 11 Pro/POCO X4 Pro 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5G",
+      "name": "BN5G",
+      "compatibility": "Redmi 10C/10A",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5H",
+      "name": "BN5H",
+      "compatibility": "Redmi Note 11E/POCO M4 5G/Redmi 10 5G/POCO M5",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5K",
+      "name": "BN5K",
+      "compatibility": "Redmi 12C/Redmi 12/POCO C55",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5M",
+      "name": "BN5M",
+      "compatibility": "Redmi Note 12 4G",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5P",
+      "name": "BN5P",
+      "compatibility": "Redmi Note 13 4G/5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5Q",
+      "name": "BN5Q",
+      "compatibility": "Redmi 13C 4G/5G/POCO C65/POCO M6 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5R",
+      "name": "BN5R",
+      "compatibility": "Redmi A3/POCO C61",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5T",
+      "name": "BN5T",
+      "compatibility": "POCO M6 4G",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BN5U",
+      "name": "BN5U",
+      "compatibility": "Redmi Note 14 5G",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BM22",
+      "name": "BM22",
+      "compatibility": "Mi 5",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BM3A",
+      "name": "BM3A",
+      "compatibility": "Mi Note 3",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BM3E",
+      "name": "BM3E",
+      "compatibility": "Mi 8",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BM3J",
+      "name": "BM3J",
+      "compatibility": "Mi 8 Lite",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BM4E",
+      "name": "BM4E",
+      "compatibility": "POCO F1",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BM4F",
+      "name": "BM4F",
+      "compatibility": "Mi A3",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BM4J",
+      "name": "BM4J",
+      "compatibility": "Redmi Note 8 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BM4P",
+      "name": "BM4P",
+      "compatibility": "POCO X2/Redmi K30",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BP40",
+      "name": "BP40",
+      "compatibility": "Redmi K20 Pro/Mi 9T Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BP41",
+      "name": "BP41",
+      "compatibility": "Redmi K20/Mi 9T",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BP42",
+      "name": "BP42",
+      "compatibility": "Mi 11 Lite/5G NE",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BP4K",
+      "name": "BP4K",
+      "compatibility": "POCO X5 Pro 5G/Redmi Note 12 Pro 4G/POCO F5",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    },
+    {
+      "category": "Baterai",
+      "brand": "Xiaomi/Redmi/POCO",
+      "code": "BM5N",
+      "name": "BM5N",
+      "compatibility": "POCO F5 Pro",
+      "source": "ARN_STORE_Master_Stock_Baterai_XIAOMI_REDMI_POCO_KODE_SAMA_REVISI_LOGO(1).txt",
+      "masterStock": 1
+    }
+  ],
+  "temperedGlass": [
+    {
+      "category": "Tempered Glass",
+      "group": "TG-01",
+      "name": "Y20 / OPPO A16 / realme 5 / Infinix Smart 6",
+      "raw": "01.  Y20 /A16\n01. OPPO   OPPO\n              / VivoA16\n                     Y22 ·/ ±6,5·6,6\"\n                             realme 5 / Infinix Smart 6 — ±6,5–6,6\"\nBrand              Semua tipe yang masuk kelompok                                                                           Tipe TG\n                   Y20, Y20i, Y20a, Y20g, Y20t, Y20s, Y20sg, Y12g, Y12S, Y15S, Y21, Y21S, Y21A, Y21T, Y21E, Y21G, Y22,\nVivo\n                   Y22S, Y33S, Y35, Y16, Y01, Y02, Y02S, Y12A, Y11S, Y31, Y31S, Y33T, Y51 2020, Y53S, Y76 5G\n                   A15, A15S, A16, A16E, A16K, A16S, A5 2020, A9 2020, A11K, A17, A17K, A18, A31 2020, A35, A54S,\nOPPO\n                   A57 4G, A57S, A77, A77S, A38, A56 5G\nrealme             5, 5I, 5C, C3, C11, C11 2021, C12, C15, C25, C25S, C21, C21Y, C25Y, Narzo 50A, Narzo 50i\n                   A02, A02S, A03, A03S, A03 Core, A04, A04S, A04E, A04 Core, A12, M02, M02S, M12, F02, F02S, F04,\nSamsung            M04, A13 5G, A32 5G, M32 5G, M23 5G, A13 4G, M13, F13, F12, F23, A23 4G, A23 5G, A22 5G, A70,\n                   A70S                                                                                                        NOTCH\n                                                                                                                            (WATERDROP)\n                   Smart 6, Smart 6 HD, Smart 5, Smart 5 Pro, Smart 4, Hot 10, Hot 10i, Hot 10 Lite, Hot 11, Hot 11i, Hot\nInfinix\n                   20i, Hot 8, Hot 8 Lite, Note 11, Note 12, Note 12 5G\nTECNO              Spark 7, Spark 8, Spark 8C, Spark 8P, Spark 8T, Spark 9\n                   Redmi Note 11E, Redmi Note 11E 5G, Redmi 10 5G, Redmi 10A, Redmi 9A, Redmi 9C, Redmi 11 Prime\nRedmi/POCO         4G, Redmi 11 Prime 5G, Redmi A1, Redmi A1 Plus, Redmi Note 11R, POCO M4 5G, POCO M5, POCO C3,\n                   POCO C31, POCO C50\niQOO               Z3, Z6, Z5X, Z7, U1X, U3, U3X, U5X, U1",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "Vivo Y20",
+        "Y20i",
+        "Y20a",
+        "Y20g",
+        "Y20t",
+        "Y20s",
+        "Y20sg",
+        "Y12g",
+        "Y12S",
+        "Y15S",
+        "Y21",
+        "Y21S",
+        "Y21A",
+        "Y21T",
+        "Y21E",
+        "Y21G",
+        "Y22",
+        "Y22S",
+        "Y33S",
+        "Y35",
+        "Y16",
+        "Y01",
+        "Y02",
+        "Y02S",
+        "Y12A",
+        "Y11S",
+        "Y31",
+        "Y31S",
+        "Y33T",
+        "Y51 2020",
+        "Y53S",
+        "Y76 5G",
+        "OPPO A15",
+        "A15S",
+        "A16",
+        "A16E",
+        "A16K",
+        "A16S",
+        "A5 2020",
+        "A9 2020",
+        "A11K",
+        "A17",
+        "A17K",
+        "A18",
+        "A31 2020",
+        "A35",
+        "A54S",
+        "A57 4G",
+        "A57S",
+        "A77",
+        "A77S",
+        "A38",
+        "A56 5G",
+        "realme 5",
+        "5I",
+        "5C",
+        "C3",
+        "C11",
+        "C11 2021",
+        "C12",
+        "C15",
+        "C25",
+        "C25S",
+        "C21",
+        "C21Y",
+        "C25Y",
+        "Narzo 50A",
+        "Narzo 50i",
+        "Samsung A02",
+        "A02S",
+        "A03",
+        "A03S",
+        "A03 Core",
+        "A04",
+        "A04S",
+        "A04E",
+        "A04 Core",
+        "A12",
+        "M02",
+        "M02S",
+        "M12",
+        "F02",
+        "F02S",
+        "F04",
+        "M04",
+        "A13 5G",
+        "A32 5G",
+        "M32 5G",
+        "M23 5G",
+        "A13 4G",
+        "M13",
+        "F13",
+        "F12",
+        "F23",
+        "A23 4G",
+        "A23 5G",
+        "A22 5G",
+        "A70",
+        "A70S",
+        "Infinix Smart 6",
+        "Smart 6 HD",
+        "Smart 5",
+        "Smart 5 Pro",
+        "Smart 4",
+        "Hot 10",
+        "Hot 10i",
+        "Hot 10 Lite",
+        "Hot 11",
+        "Hot 11i",
+        "Hot 20i",
+        "Hot 8",
+        "Hot 8 Lite",
+        "Note 11",
+        "Note 12",
+        "Note 12 5G",
+        "TECNO Spark 7",
+        "Spark 8",
+        "Spark 8C",
+        "Spark 8P",
+        "Spark 8T",
+        "Spark 9",
+        "Redmi Note 11E",
+        "Redmi Note 11E 5G",
+        "Redmi 10 5G",
+        "Redmi 10A",
+        "Redmi 9A",
+        "Redmi 9C",
+        "Redmi 11 Prime 4G",
+        "Redmi 11 Prime 5G",
+        "Redmi A1",
+        "Redmi A1 Plus",
+        "Redmi Note 11R",
+        "POCO M4 5G",
+        "POCO M5",
+        "POCO C3",
+        "POCO C31",
+        "POCO C50",
+        "iQOO Z3",
+        "Z6",
+        "Z5X",
+        "Z7",
+        "U1X",
+        "U3",
+        "U3X",
+        "U5X",
+        "U1"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-02",
+      "name": "realme C53 / Redmi 13C / POCO C65",
+      "raw": "02.  realme\n02. realme C53C53   / Redmi 13C / POCO C65 — ±6,74\"\n               · ±6,74\"\nBrand              Semua tipe yang masuk kelompok                                                                           Tipe TG\nrealme             C53, C51, C63, C61, Note 50, Note 60\nRedmi              13C 4G, 13C 5G, 13R\nPOCO               C65, M6\n                                                                                                                               TOMPEL\nrealme/Narzo       Narzo N53\n                                                                                                                            (PUNCH HOLE)\nSamsung            A05, A05S\nHonor              X7, X7A\nHuawei             Nova Y70, Nova Y70 Plus, Y71",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "realme C53",
+        "C51",
+        "C63",
+        "C61",
+        "Note 50",
+        "Note 60",
+        "Redmi 13C 4G",
+        "13C 5G",
+        "13R",
+        "POCO C65",
+        "M6",
+        "Narzo N53",
+        "Samsung A05",
+        "A05S",
+        "Honor X7",
+        "X7A",
+        "Huawei Nova Y70",
+        "Nova Y70 Plus",
+        "Y71"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-03",
+      "name": "Infinix Hot 9 / Smart 8",
+      "raw": "03.  Infinix\n03. Infinix   Hot\n            Smart 8 ·9 / Smart 8 — ±6,6\"\n                     ±6,6\"\nBrand              Semua tipe yang masuk kelompok                                                                           Tipe TG\nInfinix            Hot 9, Hot 40i, Smart 8, Smart 8 HD, Smart 8 Pro, Smart 8 Plus\n                                                                                                                               TOMPEL\nTECNO              Spark 5, Spark 5 Pro, Spark 7 Pro, Spark 20, Spark 20C, Spark Go 2024\n                                                                                                                            (PUNCH HOLE)\nCamon              Camon 15, Camon 16S, Camon 17, Camon 18",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "Infinix Hot 9",
+        "Hot 40i",
+        "Smart 8",
+        "Smart 8 HD",
+        "Smart 8 Pro",
+        "Smart 8 Plus",
+        "TECNO Spark 5",
+        "Spark 5 Pro",
+        "Spark 7 Pro",
+        "Spark 20",
+        "Spark 20C",
+        "Spark Go 2024",
+        "Camon 15",
+        "Camon 16S",
+        "Camon 17",
+        "Camon 18"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-04",
+      "name": "Infinix Hot 11S / TECNO Spark 8 Pro",
+      "raw": "04.  InfinixSpark\n04. TECNO    Hot811S\n                  Pro · /±6,78\"\n                          Spark 8 Pro — ±6,78\"\nBrand              Semua tipe yang masuk kelompok                                                                           Tipe TG\n                   Hot 11S, Hot 20S, Hot 30, Note 30, Note 30 5G, Note 30 4G, Hot 30 5G, Hot 40, Hot 40 Pro 5G, Note\nInfinix                                                                                                                        TOMPEL\n                   40X 5G, Zero 5G 2023, Zero X Neo, Camon 18, Camon 18P, Camon 18T, Pova 5\n                                                                                                                            (PUNCH HOLE)\nTECNO              Spark 8 Pro, Spark 10 Pro, Spark 20 Pro, Spark 20 Pro 5G, Pova Neo, Pova 5 Pro",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "Infinix Hot 11S",
+        "Hot 20S",
+        "Hot 30",
+        "Note 30",
+        "Note 30 5G",
+        "Note 30 4G",
+        "Hot 30 5G",
+        "Hot 40",
+        "Hot 40 Pro 5G",
+        "Note 40X 5G",
+        "Zero 5G 2023",
+        "Zero X Neo",
+        "Camon 18",
+        "Camon 18P",
+        "Camon 18T",
+        "Pova 5",
+        "TECNO Spark 8 Pro",
+        "Spark 10 Pro",
+        "Spark 20 Pro",
+        "Spark 20 Pro 5G",
+        "Pova Neo",
+        "Pova 5 Pro"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-05",
+      "name": "Infinix Hot 9 Play / Hot 10 Play / Hot 11 Play",
+      "raw": "05.  Infinix\n05. Infinix   Hot\n            Smart    9 Play\n                  5 India      / Hot 10 Play / Hot 11 Play — ±6,82\"\n                          · ±6,82\"\nBrand              Semua tipe yang masuk kelompok                                                                           Tipe TG\nInfinix            Hot 9 Play, Hot 10 Play, Hot 11 Play, Hot 10S, Hot 10T, Hot 10S NFC, Smart 5 India, Smart 4                 NOTCH\nTECNO              Pova Neo                                                                                                 (WATERDROP)\n\n\n\n\n                                                                                                                                      Halaman 1",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "Infinix Hot 9 Play",
+        "Hot 10 Play",
+        "Hot 11 Play",
+        "Hot 10S",
+        "Hot 10T",
+        "Hot 10S NFC",
+        "Smart 5 India",
+        "Smart 4",
+        "TECNO Pova Neo"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-06",
+      "name": "OPPO A5S / A12 / Vivo Y91",
+      "raw": "06.  OPPO\n06. Vivo\n    OPPO Y91 A5S\n           A1K\n             · ±6,5\"/ A12 / Vivo Y91 — ±6,5\"\n                · ±6,5\"\nBrand             Semua tipe yang masuk kelompok                                                                       Tipe TG\nOPPO              A5S, A12, A11K, A7, A1K, F9\n                                                                                                                          NOTCH\nVivo              Y91, Y91C, Y91i, Y93, Y93A, Y93T, Y95, Y1S, Y90, U1\n                                                                                                                       (WATERDROP)\nSamsung           A10S, A20",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "OPPO A5S",
+        "A12",
+        "A11K",
+        "A7",
+        "A1K",
+        "F9",
+        "Vivo Y91",
+        "Y91C",
+        "Y91i",
+        "Y93",
+        "Y93A",
+        "Y93T",
+        "Y95",
+        "Y1S",
+        "Y90",
+        "U1",
+        "Samsung A10S",
+        "A20"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-07",
+      "name": "Redmi 10C / 12C / POCO C55",
+      "raw": "07.  Redmi\n07. Redmi 12C10C   / 12C / POCO C55 — ±6,71\"\n              · ±6,71\"\nBrand             Semua tipe yang masuk kelompok                                                                       Tipe TG\nRedmi             10C, 12C, 10A                                                                                           NOTCH\nPOCO              C55, C40                                                                                             (WATERDROP)",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "Redmi 10C",
+        "12C",
+        "10A",
+        "POCO C55",
+        "C40"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-08",
+      "name": "Samsung A12 family",
+      "raw": "08.  Samsung\n08. Samsung A12 A12\n                · ±6,5\"family — ±6,5\"\nBrand             Semua tipe yang masuk kelompok                                                                       Tipe TG\n                                                                                                                          TOMPEL\nSamsung           A12, A02, A02S, A03, A03S, A03 Core, A04, A04S, A04E, A04 Core, M02, M12, F02, F02S, F04, M04, F12\n                                                                                                                       (PUNCH HOLE)",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "Samsung A12",
+        "A02",
+        "A02S",
+        "A03",
+        "A03S",
+        "A03 Core",
+        "A04",
+        "A04S",
+        "A04E",
+        "A04 Core",
+        "M02",
+        "M12",
+        "F02",
+        "F02S",
+        "F04",
+        "M04",
+        "F12"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-09",
+      "name": "Redmi Note 10 / Note 10S",
+      "raw": "09.  Redmi\n09. Redmi    Note\n          Note      10 /10S\n               10 / Note Note   10S — ±6,43\"\n                            · ±6,43\"\nBrand             Semua tipe yang masuk kelompok                                                                       Tipe TG\n                                                                                                                          TOMPEL\nRedmi             Note 10, Note 10S\n                                                                                                                       (PUNCH HOLE)",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "Redmi Note 10",
+        "Note 10S"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-10",
+      "name": "Redmi Note 13 Pro 5G / POCO X6 5G",
+      "raw": "10.  Redmi\n10. Redmi    Note\n          Note      135GPro\n               13 Pro       5G /X6\n                         / POCO  POCO    X6 5G — ±6,67\"\n                                   5G · ±6,67\"\nBrand             Semua tipe yang masuk kelompok                                                                       Tipe TG\nRedmi             Note 13 Pro 5G                                                                                          TOMPEL\nPOCO              X6 5G                                                                                                (PUNCH HOLE)",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "Redmi Note 13 Pro 5G",
+        "POCO X6 5G"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-11",
+      "name": "Universal JX-18",
+      "raw": "11.  Universal\n11. realme        JX-18\n           9 Pro 5G       — realme / OPPO / itel / Redmi / POCO — ±6,6–6,7\"\n                    · ±6,6·6,7\"\nBrand             Semua tipe yang masuk kelompok                                                                       Tipe TG\nOPPO              A98 5G, A80\nrealme            8i, 9i, 9 Pro 5G\n                                                                                                                          TOMPEL\nitel              A58\n                                                                                                                       (PUNCH HOLE)\nRedmi             Note 9S, Note 9 Pro\nPOCO              X3, X3 NFC, X3 Pro\n\n\n\n\n                                                                                                                                 Halaman 2",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "OPPO A98 5G",
+        "A80",
+        "realme 8i",
+        "9i",
+        "9 Pro 5G",
+        "itel A58",
+        "Redmi Note 9S",
+        "Note 9 Pro",
+        "POCO X3",
+        "X3 NFC",
+        "X3 Pro"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-12",
+      "name": "Universal JX-20 / Samsung family",
+      "raw": "12. Universal JX-20 — Samsung family — ±6,4\"\nBrand                      Semua tipe yang masuk kelompok                                            Tipe TG\n                                                                                                         NOTCH\nSamsung                    M30, M30S, M21, M31, A20, A30, A50, A50S\n                                                                                                      (WATERDROP)",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "Samsung M30",
+        "M30S",
+        "M21",
+        "M31",
+        "A20",
+        "A30",
+        "A50",
+        "A50S"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-13",
+      "name": "Universal JX-22 / Vivo / realme / Redmi",
+      "raw": "13. Universal JX-22 — Vivo / realme / Redmi — ±6,3–6,5\"\nBrand                      Semua tipe yang masuk kelompok                                            Tipe TG\nVivo                       Y12, Y15, Y17, Y11, Y3, S1 Pro\n                                                                                                         NOTCH\nrealme                     8\n                                                                                                      (WATERDROP)\nRedmi                      8A, Note 8",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "Vivo Y12",
+        "Y15",
+        "Y17",
+        "Y11",
+        "Y3",
+        "S1 Pro",
+        "realme 8",
+        "Redmi 8A",
+        "Note 8"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-14",
+      "name": "Universal OPPO A54 family",
+      "raw": "14. Universal OPPO A54 family — ±6,5\"\nBrand                      Semua tipe yang masuk kelompok                                            Tipe TG\nOPPO                       A53 2020, A54, A55 4G                                                         TOMPEL\nrealme                     C17                                                                        (PUNCH HOLE)",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "OPPO A53 2020",
+        "A54",
+        "A55 4G",
+        "realme C17"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-15",
+      "name": "Universal Samsung A11 family",
+      "raw": "15.  Universal\n15. OPPO A94 5GSamsung\n                · ±6,4·6,5\" A11 family — ±6,4–6,5\"\nBrand                      Semua tipe yang masuk kelompok                                             Tipe TG\nBrand                       Semua tipe yang masuk kelompok                                         Tipe TG\nOPPO                       A11, A94 5G\n                                                                                                    TOMPEL\n                                                                                                        TOMPEL\nrealme\n OPPO                      7A11,\n                             Pro,A94\n                                  8 Pro\n                                     5G\n                                                                                                 (PUNCH HOLE)HOLE)\n                                                                                                     (PUNCH\nRedmi                      6, Note 10S, Note 10 5G\nrealme                      7 Pro, 8 Pro",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "OPPO A11",
+        "A94 5G",
+        "realme 7 Pro",
+        "8 Pro",
+        "Redmi 6",
+        "Note 10S",
+        "Note 10 5G"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-16",
+      "name": "Universal Samsung A51 family",
+      "raw": "16.  Universal\n16. Redmi\nRedmi     10 4G ·Samsung\n                     6, Note 10S,A51\n                  ±6,5\"                 family\n                                  Note 10 5G   — ±6,5\"\n16. Redmi 10 4G · ±6,5\"\nBrand                Semua tipe yang masuk kelompok                                                    Tipe TG\nBrand                 Semua tipe yang masuk kelompok\n 16. Redmi 10 4G · ±6,5\"                                                                            Tipe TG\nOPPO\nBrand                F19, F19\n                      Semua    Pro,\n                            tipe    A96\n                                 yang   5G, Reno\n                                      masuk      6Z, Reno 7Z\n                                            kelompok                                                Tipe TGTOMPEL\nOPPO\nPOCO                       F19, F19 Pro, A96 5G, Reno 6Z, Reno 7Z\n                           M5S                                                                       TOMPEL\n                                                                                                       (PUNCH HOLE)\nBrand                                                                                                TOMPEL\nOPPO                       F19, F19tipe\n                           Semua     Pro,yang\n                                          A96 masuk kelompok\n                                              5G, Reno 6Z, Reno 7Z                                  Tipe\n                                                                                                 (PUNCH  TGHOLE)\n                                                                                                  (PUNCH HOLE)\nPOCO                M5S                                                                              TOMPEL",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "OPPO F19",
+        "F19 Pro",
+        "A96 5G",
+        "Reno 6Z",
+        "Reno 7Z",
+        "POCO M5S",
+        "Redmi 10 4G"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-17",
+      "name": "POCO M3 / Redmi 9T / Redmi Note 9 4G",
+      "raw": "17. POCO M3 / Redmi\nOPPO\nPOCO                M5S F199T\n                    F19,    Pro, /A96\n                                   Redmi\n                                      5G, RenoNote\n                                              6Z, Reno9\n                                                      7Z4G — ±6,53\"\n                                                                                                  (PUNCH HOLE)\nRedmi\nBrand               Redmi 10tipe\n                   Semua     4G yang masuk kelompok                                                    Tipe TG\nPOCO\nRedmi               M5S\n                    Redmi 10 4G\nRedmi              9T, Note 9 4G                                                                         TOMPEL\n 17. POCO M3 / Redmi 9T / Redmi Note 9 4G · ±6,53\"\nRedmi\n 17. POCO M3 / Redmi\nPOCO                Redmi\n                   M39T /10  4G\n                           Redmi     Note 9 4G · ±6,53\"                                               (PUNCH HOLE)\n\nBrand\n17. POCO M3 / RedmiSemua  tipe yangNote\n                    9T / Redmi      masuk9kelompok\n                                           4G · ±6,53\"                                              Tipe TG\nBrand             Semua tipe yang masuk kelompok                                                    Tipe TG\nRedmi             9T, Note 9 4G                                                                      TOMPEL\nBrand             Semua                                                                              TOMPEL\nRedmi             9T, Notetipe\n                           9 4Gyang masuk kelompok                                                  Tipe\n                                                                                                 (PUNCH  TG\n                                                                                                          HOLE)\n                                                                                                  (PUNCH HOLE)\nPOCO                        M3                                                                       TOMPEL\nRedmi\nPOCO                        9T, Note 9 4G\n                            M3                                                                    (PUNCH HOLE)\n\nPOCO                        M3",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "Redmi 9T",
+        "Note 9 4G",
+        "POCO M3"
+      ]
+    },
+    {
+      "category": "Tempered Glass",
+      "group": "TG-18",
+      "name": "POCO C71",
+      "raw": "18. POCO C71 · ±6,88\"\n18. POCO C71 · ±6,88\"\n18. POCO C71 · ±6,88\"\nBrand                       Semua tipe yang masuk kelompok                                          Tipe TG\nBrand                       Semua tipe yang masuk kelompok                                          Tipe TG\nBrand                       Semua tipe yang masuk kelompok                                          Tipe TG\n                                                                                                     TOMPEL\nXiaomi / Redmi              Redmi A5 4G, Redmi 14C 4G, Redmi A4 5G, Redmi A3 Pro, Redmi 14R 5G\n                                                                                                     TOMPEL\nXiaomi / Redmi              Redmi A5 4G, Redmi 14C 4G, Redmi A4 5G, Redmi A3 Pro, Redmi 14R 5G   (PUNCH   HOLE)\n                                                                                                     TOMPEL\nXiaomi / Redmi              Redmi A5 4G, Redmi 14C 4G, Redmi A4 5G, Redmi A3 Pro, Redmi 14R 5G    (PUNCH  HOLE)\nPOCO                        POCO C71, POCO C75 4G, POCO M7 5G                                     (PUNCH HOLE)\nPOCO                        POCO C71, POCO C75 4G, POCO M7 5G\nPOCO                        POCO C71, POCO C75 4G, POCO M7 5G\n\nACUAN STOK: pilih model paling kecil/aman dalam grup; model lain tetap kompatibel.\n\n\n\n\n                                                                                                                Halaman 3",
+      "source": "ARN_STORE_Master_Tempered_Glass_Kompatibilitas_FINAL_REVISI_ACUAN_STOK_FINAL2(3).txt",
+      "models": [
+        "Xiaomi / Redmi Redmi A5 4G",
+        "Redmi 14C 4G",
+        "Redmi A4 5G",
+        "Redmi A3 Pro",
+        "Redmi 14R 5G",
+        "POCO C71",
+        "POCO C75 4G",
+        "POCO M7 5G"
+      ]
+    }
+  ],
+  "openingStock": [
+    {
+      "code": "TG-G01",
+      "qty": 15,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "TG-G16",
+      "qty": 7,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "TG-G18",
+      "qty": 5,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "TG-UNK-01",
+      "qty": 2,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal; model belum teridentifikasi",
+      "unit": "pcs"
+    },
+    {
+      "code": "TG-UNK-02",
+      "qty": 3,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal; model belum teridentifikasi",
+      "unit": "pcs"
+    },
+    {
+      "code": "CON-001",
+      "qty": 10,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "CON-002",
+      "qty": 5,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "CON-003",
+      "qty": 3,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "CON-004",
+      "qty": 10,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "CON-005",
+      "qty": 4,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "CON-006",
+      "qty": 2,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "CON-007",
+      "qty": 9,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "LCD-001",
+      "qty": 1,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "BTN-001",
+      "qty": 20,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "BTN-002",
+      "qty": 25,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal ARN Store",
+      "unit": "pcs"
+    },
+    {
+      "code": "BTN-003",
+      "qty": 0,
+      "movement": "MASUK",
+      "date": "2026-09-14",
+      "note": "Stok awal; stok kosong",
+      "unit": "pcs"
+    }
+  ],
+  "counts": {
+    "lcdGroups": 63,
+    "lcdModels": 488,
+    "batteryCodes": 209,
+    "tgGroups": 18,
+    "openingLines": 16,
+    "temperedGlassModels": 313,
+    "temperedGlassGroups": 18,
+    "inventoryItems": 34,
+    "openingStockRows": 16
+  },
+  "inventoryItems": [
+    {
+      "code": "TG-G01",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "OPPO A16 / Vivo Y22",
+      "tg_group": "G01",
+      "qty": 15,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "TG-G02",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "realme C53 / Redmi 13C / POCO C65",
+      "tg_group": "G02",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G03",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Infinix Hot 9 / Smart 8",
+      "tg_group": "G03",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G04",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Infinix Hot 11S / TECNO Spark 8 Pro",
+      "tg_group": "G04",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G05",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Infinix Hot 9 Play / Hot 10 Play / Hot 11 Play",
+      "tg_group": "G05",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G06",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "OPPO A5S / A12 / Vivo Y91",
+      "tg_group": "G06",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G07",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Redmi 10C / 12C / POCO C55",
+      "tg_group": "G07",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G08",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Samsung A12 family",
+      "tg_group": "G08",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G09",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Redmi Note 10 / Note 10S",
+      "tg_group": "G09",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G10",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Redmi Note 13 Pro 5G / POCO X6 5G",
+      "tg_group": "G10",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G11",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Universal JX-18",
+      "tg_group": "G11",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G12",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Universal JX-20 / Samsung family",
+      "tg_group": "G12",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G13",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Universal JX-22 / Vivo / realme / Redmi",
+      "tg_group": "G13",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G14",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Universal OPPO A54 family",
+      "tg_group": "G14",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G15",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Universal Samsung A11 family",
+      "tg_group": "G15",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G16",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Redmi 10 4G / OPPO A52",
+      "tg_group": "G16",
+      "qty": 7,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "TG-G17",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "POCO M3 / Redmi 9T / Redmi Note 9 4G",
+      "tg_group": "G17",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-G18",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "POCO C71",
+      "tg_group": "G18",
+      "qty": 5,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "TG-UNK-01",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "UNKNOWN (1)",
+      "tg_group": "",
+      "qty": 2,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "TG-UNK-02",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "UNKNOWN (2)",
+      "tg_group": "",
+      "qty": 3,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "CON-001",
+      "category": "KONEKTOR",
+      "item_type": "Charging Connector",
+      "item_name": "Smart 6",
+      "tg_group": "",
+      "qty": 10,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "CON-002",
+      "category": "KONEKTOR",
+      "item_type": "Charging Connector",
+      "item_name": "OPPO A5s",
+      "tg_group": "",
+      "qty": 5,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "CON-003",
+      "category": "KONEKTOR",
+      "item_type": "Charging Connector",
+      "item_name": "Infinix Smart 8",
+      "tg_group": "",
+      "qty": 3,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "CON-004",
+      "category": "KONEKTOR",
+      "item_type": "Charging Connector",
+      "item_name": "Redmi 13C",
+      "tg_group": "",
+      "qty": 10,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "CON-005",
+      "category": "KONEKTOR",
+      "item_type": "Charging Connector",
+      "item_name": "Samsung A01 / A015 / Redmi 9A",
+      "tg_group": "",
+      "qty": 4,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "CON-006",
+      "category": "KONEKTOR",
+      "item_type": "Charging Connector",
+      "item_name": "Vivo Y21",
+      "tg_group": "",
+      "qty": 2,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "CON-007",
+      "category": "KONEKTOR",
+      "item_type": "Charging Connector",
+      "item_name": "Vivo / Universal",
+      "tg_group": "",
+      "qty": 9,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "LCD-001",
+      "category": "LCD",
+      "item_type": "LCD",
+      "item_name": "Vivo Y15 / Y17 / Y11",
+      "tg_group": "",
+      "qty": 1,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "BTN-001",
+      "category": "TOMBOL",
+      "item_type": "Tombol On/Off/Volume",
+      "item_name": "1 kaki",
+      "tg_group": "",
+      "qty": 20,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "BTN-002",
+      "category": "TOMBOL",
+      "item_type": "Tombol On/Off/Volume",
+      "item_name": "4 kaki paralel",
+      "tg_group": "",
+      "qty": 25,
+      "unit": "pcs",
+      "status": "ADA"
+    },
+    {
+      "code": "BTN-003",
+      "category": "TOMBOL",
+      "item_type": "Tombol On/Off/Volume",
+      "item_name": "4 kaki seri",
+      "tg_group": "",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-SMART10",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Infinix Smart 10",
+      "tg_group": "",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-REDMI13C",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Redmi 13C",
+      "tg_group": "G02",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    },
+    {
+      "code": "TG-Y28",
+      "category": "TG",
+      "item_type": "Tempered Glass",
+      "item_name": "Vivo Y28",
+      "tg_group": "",
+      "qty": 0,
+      "unit": "pcs",
+      "status": "KOSONG"
+    }
+  ]
+}
